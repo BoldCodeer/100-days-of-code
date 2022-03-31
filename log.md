@@ -16,4 +16,12 @@ Thoughts: I successfully created a group but I got a problem of displaying a gro
 
 Link: https://github.com/BoldCodeer/capstone-project
 
+Day 3: March 31, 2022
+
+Progress: Fix a display data of the student group
+
+Thoughts: Search a solution to my problem.. It's hard to find a solution but I don't give up.
+
+Link: https://github.com/BoldCodeer/capstone-project
+
 
